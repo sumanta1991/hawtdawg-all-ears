@@ -9,3 +9,8 @@ Showcase your best self whether that means a fresh from the groomer gloumour sho
 ## Where do I list my favourite treats?
 
 Open the hawtdawg app and click on "edit profile."
+
+## photos are nice and all, but I don't see very well. How can I smell the other dogs?
+
+We regret that we are unable to offer our customer smell-o-vision at this time.
+As soon as human technology catches up to dog noses, we will be sure to add a scent feature to the app.

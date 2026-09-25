@@ -14,3 +14,7 @@ Open the hawtdawg app and click on "edit profile."
 
 We regret that we are unable to offer our customer smell-o-vision at this time.
 As soon as human technology catches up to dog noses, we will be sure to add a scent feature to the app.
+
+## New question
+
+New Question is going to add very soon.
